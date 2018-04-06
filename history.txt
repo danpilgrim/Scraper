@@ -1,0 +1,7 @@
+Project History
+$ git init Scraper
+git add *
+git commit -m Hello World
+git remote add origin https://github.com/danpilgrim/Scraper.git
+git remote -v
+git push -u origin master
