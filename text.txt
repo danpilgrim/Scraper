@@ -1,0 +1,8 @@
+
+
+1. <!DOCTYPE html>: HTML documents must start with a type declaration.
+2. The HTML document is contained between <html> and </html>.
+3. The meta and script declaration of the HTML document is between <head> and </head>.
+4. The visible part of the HTML document is between <body> and </body> tags.
+5. Title headings are defined with the <h1> through <h6> tags.
+6. Paragraphs are defined with the <p> tag.
